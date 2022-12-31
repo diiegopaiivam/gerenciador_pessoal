@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  data: 2022-12-31
+  inicio_evento: 2022-12-31 03:08:36
+  final_evento: 2022-12-31 03:08:36
+  descricao: MyText
+  lembrete: false
+
+two:
+  nome: MyString
+  data: 2022-12-31
+  inicio_evento: 2022-12-31 03:08:36
+  final_evento: 2022-12-31 03:08:36
+  descricao: MyText
+  lembrete: false
